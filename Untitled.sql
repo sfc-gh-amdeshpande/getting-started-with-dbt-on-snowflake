@@ -2,6 +2,6 @@ ALTER SCHEMA dbt_demo_db.dev SET LOG_LEVEL = 'INFO';
 ALTER SCHEMA dbt_demo_db.dev SET TRACE_LEVEL = 'ALWAYS';
 ALTER SCHEMA dbt_demo_db.dev SET METRIC_LEVEL = 'ALL';
 
-ALTER SCHEMA dbt_demo_db.prod SET LOG_LEVEL = 'INFO';
+/*ALTER SCHEMA dbt_demo_db.prod SET LOG_LEVEL = 'INFO';
 ALTER SCHEMA dbt_demo_db.prod SET TRACE_LEVEL = 'ALWAYS';
-ALTER SCHEMA dbt_demo_db.prod SET METRIC_LEVEL = 'ALL';
+ALTER SCHEMA dbt_demo_db.prod SET METRIC_LEVEL = 'ALL';*/
